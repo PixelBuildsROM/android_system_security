@@ -58,7 +58,6 @@ rust_defaults {
         "libserde_cbor",
         "libthiserror",
         "libtokio",
-        "libbssl_ffi",
     ],
     shared_libs: [
         "libcutils",
